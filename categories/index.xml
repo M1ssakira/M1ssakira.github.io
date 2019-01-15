@@ -1,43 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lilith&#39;s website</title>
-    <link>http://M1ssakira.github.io/categories/</link>
-    <description>Recent content on lilith&#39;s website</description>
+    <title>Categories on lilith&#39;s website</title>
+    <link>https://M1ssakira.github.io/categories/</link>
+    <description>Recent content in Categories on lilith&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Jan 2019 18:01:48 +0800</lastBuildDate>
     
-	<atom:link href="http://M1ssakira.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://M1ssakira.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2333</title>
-      <link>http://M1ssakira.github.io/posts/2333/</link>
+      <title></title>
+      <link>https://M1ssakira.github.io/categories/</link>
       <pubDate>Tue, 15 Jan 2019 18:01:48 +0800</pubDate>
       
-      <guid>http://M1ssakira.github.io/posts/2333/</guid>
-      <description>wo shi lilith
-woshi lilith woshi li lith def func(): print (&#39;233333&#39;)  finis.</description>
+      <guid>https://M1ssakira.github.io/categories/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Firstttt</title>
-      <link>http://M1ssakira.github.io/posts/firstttt/</link>
-      <pubDate>Tue, 15 Jan 2019 17:11:33 +0800</pubDate>
+      <title>Development</title>
+      <link>https://M1ssakira.github.io/categories/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://M1ssakira.github.io/posts/firstttt/</guid>
-      <description>我是lilith阿斯顿阿斯顿啊 啊实打实d阿斯顿 阿斯顿阿斯顿
-阿斯顿阿三da 阿斯顿阿斯顿</description>
+      <guid>https://M1ssakira.github.io/categories/development/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>First</title>
-      <link>http://M1ssakira.github.io/posts/first/</link>
-      <pubDate>Tue, 15 Jan 2019 14:21:10 +0800</pubDate>
+      <title>Golang</title>
+      <link>https://M1ssakira.github.io/categories/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://M1ssakira.github.io/posts/first/</guid>
-      <description> hello hugo  first second thread  </description>
+      <guid>https://M1ssakira.github.io/categories/golang/</guid>
+      <description></description>
     </item>
     
   </channel>
